@@ -7,3 +7,5 @@ For example, if your quest is Kill or Be Killed that is having trouble, find it 
 The same can be done for spells, NPCs, etc. Please also make sure your issue is an actual issue, and verify the behavoir isn't correct, rather than assuming that there's a bug because you didn't pay attention to quest details.
 
 You can gather information about NPCs by targeting them and using `.npc info`, and location information can be found with `.gps`
+
+Use the search in the issues section to see if your issue already exists or not as to not create duplicates.
